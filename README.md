@@ -1,4 +1,4 @@
-# formulario-vue
+# formulario-vue2
 
 ## Project setup
 ```
